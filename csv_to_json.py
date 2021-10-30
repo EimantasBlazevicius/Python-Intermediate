@@ -9,8 +9,8 @@ def cleanhtml(raw_html):
     return cleantext
 
 
-def count_comma(word):
-    return True if word.count(",") >= 3 else False
+def count_comma(description):
+    return True if description.count(",") >= 3 else False
 
 
 def clean_dictionaries(csvfile):
@@ -49,7 +49,6 @@ if __name__ == "__main__":
                     parents.append(row)
                 else:
                     childs.append(row)
-
             with open('data.json', 'w', encoding='utf-8') as json_file:
                 json.dump(nested_dicts(parents, childs), json_file, indent=4, ensure_ascii=False)
     except Exception as e:
