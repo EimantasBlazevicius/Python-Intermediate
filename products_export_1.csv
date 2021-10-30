@@ -1,0 +1,436 @@
+Handle,Title,Body (HTML),Vendor,Standard Product Type,Custom Product Type,Tags,Published,Option1 Name,Option1 Value,Option2 Name,Option2 Value,Option3 Name,Option3 Value,Variant SKU,Variant Grams,Variant Inventory Tracker,Variant Inventory Qty,Variant Inventory Policy,Variant Fulfillment Service,Variant Price,Variant Compare At Price,Variant Requires Shipping,Variant Taxable,Variant Barcode,Image Src,Image Position,Image Alt Text,Gift Card,SEO Title,SEO Description,Google Shopping / Google Product Category,Google Shopping / Gender,Google Shopping / Age Group,Google Shopping / MPN,Google Shopping / AdWords Grouping,Google Shopping / AdWords Labels,Google Shopping / Condition,Google Shopping / Custom Product,Google Shopping / Custom Label 0,Google Shopping / Custom Label 1,Google Shopping / Custom Label 2,Google Shopping / Custom Label 3,Google Shopping / Custom Label 4,Variant Image,Variant Weight Unit,Variant Tax Code,Cost per item,Status
+su-zolelemis-mesai,Su žolelėmis mėsai,"<p>Tinka bet kokios rūšies mėsai.</p>
+<p>Sudėtis: saldi raudona paprika, česnakai, kmynai, kalendra, krapai, juodieji pipirai, laurų lapai.</p>",Paskanink,"Food, Beverages & Tobacco > Food Items > Seasonings & Spices",,"",true,Size,100g,,,,,100,1000.0,,0,deny,manual,1.65,,true,true,"",https://cdn.shopify.com/s/files/1/0605/2898/4321/products/Suzolelemismesai.jpg?v=1634637089,1,,false,,,,,,,,,,,,,,,,,kg,,,active
+su-zolelemis-mesai,,,,,,,,,250g,,,,,100-1,1000.0,,0,deny,manual,4.13,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+su-zolelemis-mesai,,,,,,,,,350g,,,,,100-2,1000.0,,0,deny,manual,5.78,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+su-zolelemis-mesai,,,,,,,,,1kg,,,,,100-3,1000.0,,0,deny,manual,16.50,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+su-zolelemis-bulvems,Su žolelėmis bulvėms,"Sudėtis: svogūnai, petražolės, valgomoji druska, baltieji pipirai, saldžios raudonosios paprikos, krapai, raudonėliai, rozmarinai.",Paskanink,"Food, Beverages & Tobacco > Food Items > Seasonings & Spices",,"",true,Size,100g,,,,,99,1000.0,,0,deny,manual,1.05,,true,true,"",https://cdn.shopify.com/s/files/1/0605/2898/4321/products/Suzolelemisbulvems.jpg?v=1634637024,1,,false,,,,,,,,,,,,,,,,,kg,,,active
+su-zolelemis-bulvems,,,,,,,,,250g,,,,,99-1,1000.0,,0,deny,manual,2.63,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+su-zolelemis-bulvems,,,,,,,,,350g,,,,,99-2,1000.0,,0,deny,manual,3.68,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+su-zolelemis-bulvems,,,,,,,,,1kg,,,,,99-3,1000.0,,0,deny,manual,10.50,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+su-cesnaku-zuviai,Su česnaku žuviai,"<p>Tinka visiems gaminiams kur naudojate česnaką.</p>
+<p>Sudėtis: česnakai, saldžios raudonos paprikos, saldžios žalios paprikos.</p>",Paskanink,"Food, Beverages & Tobacco > Food Items > Seasonings & Spices",,"",true,Size,100g,,,,,98,1000.0,,0,deny,manual,2.35,,true,true,"",https://cdn.shopify.com/s/files/1/0605/2898/4321/products/Sucesnakuzuviai.jpg?v=1634636933,1,,false,,,,,,,,,,,,,,,,,kg,,,active
+su-cesnaku-zuviai,,,,,,,,,250g,,,,,98-1,1000.0,,0,deny,manual,5.88,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+su-cesnaku-zuviai,,,,,,,,,350g,,,,,98-2,1000.0,,0,deny,manual,8.23,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+su-cesnaku-zuviai,,,,,,,,,1kg,,,,,98-3,1000.0,,0,deny,manual,23.50,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+su-citrina-zuviai,Su citrina žuviai,"Sudėtis: valgomoji druska, svogūnai, petražolės, česnakai, garstyčių sėklos, bazilikai, kvapieji pipirai, ciberžolės, pipirmėtės, maistinės skaidulos, citrinų granulės.",Paskanink,"Food, Beverages & Tobacco > Food Items > Seasonings & Spices",,"",true,Size,100g,,,,,97,1000.0,,0,deny,manual,1.25,,true,true,"",https://cdn.shopify.com/s/files/1/0605/2898/4321/products/Sucitrinazuviai.jpg?v=1634636836,1,,false,,,,,,,,,,,,,,,,,kg,,,active
+su-citrina-zuviai,,,,,,,,,250g,,,,,97-1,1000.0,,0,deny,manual,3.13,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+su-citrina-zuviai,,,,,,,,,350g,,,,,97-2,1000.0,,0,deny,manual,4.38,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+su-citrina-zuviai,,,,,,,,,1kg,,,,,97-3,1000.0,,0,deny,manual,12.50,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+skanumelis,Skanumėlis,"<p>Puikiai pagardina sriubas, troškinius, mėsos gaminius, varškę.</p>
+<p>Sudėtis: druska, česnakai, svogūnų laiškai, bazilikai, salierų lapai.</p>",Paskanink,"Food, Beverages & Tobacco > Food Items > Seasonings & Spices",,"",true,Size,100g,,,,,96,1000.0,,0,deny,manual,1.75,,true,true,"",https://cdn.shopify.com/s/files/1/0605/2898/4321/products/Skanumelis.jpg?v=1634636784,1,,false,,,,,,,,,,,,,,,,,kg,,,active
+skanumelis,,,,,,,,,250g,,,,,96-1,1000.0,,0,deny,manual,4.38,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+skanumelis,,,,,,,,,350g,,,,,96-2,1000.0,,0,deny,manual,6.13,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+skanumelis,,,,,,,,,1kg,,,,,96-3,1000.0,,0,deny,manual,17.50,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+sambar-masala,Sambar Masala,"Sudėtis: čili, kalendra, juodieji pipirai, kuminai, cinamonas, garstyčių sėklos, imbierai, gvazdikėliai, ciberžolė, druska.",Paskanink,"Food, Beverages & Tobacco > Food Items > Seasonings & Spices",,"",true,Size,100g,,,,,95,1000.0,,0,deny,manual,1.25,,true,true,"",https://cdn.shopify.com/s/files/1/0605/2898/4321/products/Sambarmasala.jpg?v=1634636706,1,,false,,,,,,,,,,,,,,,,,kg,,,active
+sambar-masala,,,,,,,,,250g,,,,,95-1,1000.0,,0,deny,manual,3.13,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+sambar-masala,,,,,,,,,350g,,,,,95-2,1000.0,,0,deny,manual,4.38,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+sambar-masala,,,,,,,,,1kg,,,,,95-3,1000.0,,0,deny,manual,12.50,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+salieru-saknys,Salierų šaknys,"<p>Naudojamos pagal skonį.</p>
+<p> </p>",Paskanink,"Food, Beverages & Tobacco > Food Items > Seasonings & Spices",,"",true,Size,100g,,,,,94,1000.0,,0,deny,manual,1.15,,true,true,"",https://cdn.shopify.com/s/files/1/0605/2898/4321/products/Salierusaknys.jpg?v=1634636632,1,,false,,,,,,,,,,,,,,,,,kg,,,active
+salieru-saknys,,,,,,,,,250g,,,,,94-1,1000.0,,0,deny,manual,2.88,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+salieru-saknys,,,,,,,,,350g,,,,,94-2,1000.0,,0,deny,manual,4.03,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+salieru-saknys,,,,,,,,,1kg,,,,,94-3,1000.0,,0,deny,manual,11.50,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+ryziams,Ryžiams,"<p>Naudojamas ryžių, makaronų, bulvių gardinimui.</p>
+<p>Sudėtis: valgomoji druska, svogūnai, česnakai, ciberžolė,  saldi raudona paprika, morkos, baltieji pipirai, krapai, aitrioji čili paprikėlė,  kviečių skaidulos.</p>",Paskanink,"Food, Beverages & Tobacco > Food Items > Seasonings & Spices",,"",true,Size,100g,,,,,93,1000.0,,0,deny,manual,0.95,,true,true,"",https://cdn.shopify.com/s/files/1/0605/2898/4321/products/Ryziams.jpg?v=1634636570,1,,false,,,,,,,,,,,,,,,,,kg,,,active
+ryziams,,,,,,,,,250g,,,,,93-1,1000.0,,0,deny,manual,2.38,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+ryziams,,,,,,,,,350g,,,,,93-2,1000.0,,0,deny,manual,3.33,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+ryziams,,,,,,,,,1kg,,,,,93-3,1000.0,,0,deny,manual,9.50,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+rytietiski-zuvu-prieskoniai,Rytietiški žuvų prieskoniai,"<p>Prieskoniai suteikia puikų skonį virtiems, keptiems, troškintiems žuvies patiekalams, taip pat tinka bulvėms ir kiaušinienei gardinti.</p>
+<p>Sudėtis: druska, česnakai, krapai, garstyčios, cukrus, svogūnai, petražolės, kario prieskoniai,, raudonos saldžios paprikos, citrinų rūgštis, baltieji pipirai.</p>",Paskanink,"Food, Beverages & Tobacco > Food Items > Seasonings & Spices",,"",true,Size,100g,,,,,92,1000.0,,0,deny,manual,1.05,,true,true,"",https://cdn.shopify.com/s/files/1/0605/2898/4321/products/Rytietiskizuvuprieskoniai.jpg?v=1634636125,1,,false,,,,,,,,,,,,,,,,,kg,,,active
+rytietiski-zuvu-prieskoniai,,,,,,,,,250g,,,,,92-1,1000.0,,0,deny,manual,2.63,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+rytietiski-zuvu-prieskoniai,,,,,,,,,350g,,,,,92-2,1000.0,,0,deny,manual,3.68,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+rytietiski-zuvu-prieskoniai,,,,,,,,,1kg,,,,,92-3,1000.0,,0,deny,manual,10.50,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+rytietiski-paukstienos,Rytietiški paukštienos,"",Paskanink,"Food, Beverages & Tobacco > Food Items > Seasonings & Spices",,"",true,Size,100g,,,,,91,1000.0,,0,deny,manual,0.99,,true,true,"",https://cdn.shopify.com/s/files/1/0605/2898/4321/products/Rytietiskipaukstienos.jpg?v=1634636048,1,,false,,,,,,,,,,,,,,,,,kg,,,active
+rytietiski-paukstienos,,,,,,,,,250g,,,,,91-1,1000.0,,0,deny,manual,2.48,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+rytietiski-paukstienos,,,,,,,,,350g,,,,,91-2,1000.0,,0,deny,manual,3.47,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+rytietiski-paukstienos,,,,,,,,,1kg,,,,,91-3,1000.0,,0,deny,manual,9.90,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+rytietiskas-saslykam,Rytietiškas šašlykam,"<p>Prieskoniai suteikia pikantišką skonį mėsos gaminiams, keptoms bulvėms, makaronams.</p>
+<p>Sudėtis: valgomoji druska, saldi raudona paprika, česnakai, svogūnai, aštrios raudonos paprikos, kari, biri cukraus pudra, garstyčių sėklos, juodieji pipirai, rūgštingumą reguliuojanti medžiaga citrinų rūgštis, raudonėliai.</p>",Paskanink,"Food, Beverages & Tobacco > Food Items > Seasonings & Spices",,"",true,Size,100g,,,,,90,1000.0,,0,deny,manual,1.15,,true,true,"",https://cdn.shopify.com/s/files/1/0605/2898/4321/products/Rytietiskassaslykam.jpg?v=1634635210,1,,false,,,,,,,,,,,,,,,,,kg,,,active
+rytietiskas-saslykam,,,,,,,,,250g,,,,,90-1,1000.0,,0,deny,manual,2.88,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+rytietiskas-saslykam,,,,,,,,,350g,,,,,90-2,1000.0,,0,deny,manual,4.03,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+rytietiskas-saslykam,,,,,,,,,1kg,,,,,90-3,1000.0,,0,deny,manual,11.50,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+rudenelis,Rudenėlis,"<p>Tinka naudoti mėsos gaminių skaninimui ir varškės sūriams gaminti.</p>
+<p>Sudėtis: pomidorai, jūros druska, česnakai, svogūnai, bazilikai, salierų lapai.</p>",Paskanink,"Food, Beverages & Tobacco > Food Items > Seasonings & Spices",,"",true,Size,100g,,,,,89,1000.0,,0,deny,manual,1.65,,true,true,"",https://cdn.shopify.com/s/files/1/0605/2898/4321/products/Rudenelis.jpg?v=1634635064,1,,false,,,,,,,,,,,,,,,,,kg,,,active
+rudenelis,,,,,,,,,250g,,,,,89-1,1000.0,,0,deny,manual,4.12,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+rudenelis,,,,,,,,,350g,,,,,89-2,1000.0,,0,deny,manual,5.78,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+rudenelis,,,,,,,,,1kg,,,,,89-3,1000.0,,0,deny,manual,16.50,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+rozmarinai,Rozmarinai,Naudojami pagal skonį.,Paskanink,"Food, Beverages & Tobacco > Food Items > Seasonings & Spices",,"",true,Size,100g,,,,,88,1000.0,,0,deny,manual,1.45,,true,true,"",https://cdn.shopify.com/s/files/1/0605/2898/4321/products/Rozmarinai.jpg?v=1634635005,1,,false,,,,,,,,,,,,,,,,,kg,,,active
+rozmarinai,,,,,,,,,250g,,,,,88-1,1000.0,,0,deny,manual,3.63,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+rozmarinai,,,,,,,,,350g,,,,,88-2,1000.0,,0,deny,manual,5.08,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+rozmarinai,,,,,,,,,1kg,,,,,88-3,1000.0,,0,deny,manual,14.50,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+raudoneliai,Raudonėliai,Naudojama kaip prieskonis arba arbatai gaminti.,Paskanink,"Food, Beverages & Tobacco > Food Items > Seasonings & Spices",,"",true,Size,100g,,,,,87,1000.0,,0,deny,manual,1.45,,true,true,"",https://cdn.shopify.com/s/files/1/0605/2898/4321/products/Raudoneliai.jpg?v=1634634945,1,,false,,,,,,,,,,,,,,,,,kg,,,active
+raudoneliai,,,,,,,,,250g,,,,,87-1,1000.0,,0,deny,manual,3.63,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+raudoneliai,,,,,,,,,350g,,,,,87-2,1000.0,,0,deny,manual,5.08,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+raudoneliai,,,,,,,,,1kg,,,,,87-3,1000.0,,0,deny,manual,14.50,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+raudonieji-pipirai,Raudonieji pipirai,Naudojami pagal skonį.,Paskanink,"Food, Beverages & Tobacco > Food Items > Seasonings & Spices",,"",true,Size,100g,,,,,86,1000.0,,0,deny,manual,2.75,,true,true,"",https://cdn.shopify.com/s/files/1/0605/2898/4321/products/Raudoniejipipirai.jpg?v=1634634879,1,,false,,,,,,,,,,,,,,,,,kg,,,active
+raudonieji-pipirai,,,,,,,,,250g,,,,,86-1,1000.0,,0,deny,manual,6.88,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+raudonieji-pipirai,,,,,,,,,350g,,,,,86-2,1000.0,,0,deny,manual,9.63,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+raudonieji-pipirai,,,,,,,,,1kg,,,,,86-3,1000.0,,0,deny,manual,27.50,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+raudona-saldi-rukyta-paprika,Raudona saldi rūkyta paprika,Naudojama pagal skonį.,Paskanink,"Food, Beverages & Tobacco > Food Items > Seasonings & Spices",,"",true,Size,100g,,,,,85,1000.0,,0,deny,manual,1.55,,true,true,"",https://cdn.shopify.com/s/files/1/0605/2898/4321/products/Raudonasaldirukytapaprika.jpg?v=1634634812,1,,false,,,,,,,,,,,,,,,,,kg,,,active
+raudona-saldi-rukyta-paprika,,,,,,,,,250g,,,,,85-1,1000.0,,0,deny,manual,3.88,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+raudona-saldi-rukyta-paprika,,,,,,,,,350g,,,,,85-2,1000.0,,0,deny,manual,5.43,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+raudona-saldi-rukyta-paprika,,,,,,,,,1kg,,,,,85-3,1000.0,,0,deny,manual,15.50,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+raudona-paprika-smulkinta,Raudona paprika smulkinta,Naudojama pagal skonį.,Paskanink,"Food, Beverages & Tobacco > Food Items > Seasonings & Spices",,"",true,Size,100g,,,,,83,1000.0,,0,deny,manual,1.20,,true,true,"",https://cdn.shopify.com/s/files/1/0605/2898/4321/products/Raudonapaprikasmulkinta.jpg?v=1634634660,1,,false,,,,,,,,,,,,,,,,,kg,,,active
+raudona-paprika-smulkinta,,,,,,,,,250g,,,,,83-1,1000.0,,0,deny,manual,3.00,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+raudona-paprika-smulkinta,,,,,,,,,350g,,,,,83-2,1000.0,,0,deny,manual,4.20,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+raudona-paprika-smulkinta,,,,,,,,,1kg,,,,,83-3,1000.0,,0,deny,manual,12.00,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+provanso-zoleliu-misinys,Provanso žolelių mišinys,"<p>Naudojamas makaronams ir daržovių patiekalams gardinti.</p>
+<p>Sudėtis: raudonėliai, bazilikai, mairūnai, dašiai, levandos, rozmarinai, čiobreliai, kalendros.</p>",Paskanink,"Food, Beverages & Tobacco > Food Items > Seasonings & Spices",,"",true,Size,100g,,,,,82,1000.0,,0,deny,manual,1.85,,true,true,"",https://cdn.shopify.com/s/files/1/0605/2898/4321/products/Provansozoleliumisinys.jpg?v=1634634599,1,,false,,,,,,,,,,,,,,,,,kg,,,active
+provanso-zoleliu-misinys,,,,,,,,,250g,,,,,82-1,1000.0,,0,deny,manual,4.63,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+provanso-zoleliu-misinys,,,,,,,,,350g,,,,,82-2,1000.0,,0,deny,manual,6.48,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+provanso-zoleliu-misinys,,,,,,,,,1kg,,,,,82-3,1000.0,,0,deny,manual,18.50,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+prieskoniu-misinys-voveraites,Prieskonių mišinys su voveraitėmis,"<p>Tinka gardinti padažams, sriuboms, koldūnams, makaronams, ryžiams, bulvėms.</p>
+<p>Sudėtis: įvairiomis proporcijomis prieskoniai: kepti svogūnai, svogūnų granulės, petražolės, porai, ciberžolė, džiovintos voveraitės, grietinėlė, pienjo milteliai, bulvių dribsniai ir krakmolas, augaliniai riebalai, kv. miltai, druska 8%.</p>",Paskanink,"Food, Beverages & Tobacco > Food Items > Seasonings & Spices",,"",true,Size,100g,,,,,81,1000.0,,0,deny,manual,1.85,,true,true,"",https://cdn.shopify.com/s/files/1/0605/2898/4321/products/Prieskoniumisinysvoveraites.jpg?v=1634634526,1,,false,,,,,,,,,,,,,,,,,kg,,,active
+prieskoniu-misinys-voveraites,,,,,,,,,250g,,,,,81-1,1000.0,,0,deny,manual,4.63,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+prieskoniu-misinys-voveraites,,,,,,,,,350g,,,,,81-2,1000.0,,0,deny,manual,6.48,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+prieskoniu-misinys-voveraites,,,,,,,,,1kg,,,,,81-3,1000.0,,0,deny,manual,18.50,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+prieskoniu-misinys-su-kanapemis,Prieskonių mišinys su kanapėmis,"<p>Vartojamas skaninimui bulvių patiekalams, sviestui, varškei, salotoms ir kitiems užkandžiams.</p>
+<p>Sudėtis: maistinės kanapės, svogūnai, juodieji pipirai, valgomoji druska.</p>",Paskanink,"Food, Beverages & Tobacco > Food Items > Seasonings & Spices",,"",true,Size,100g,,,,,80,1000.0,,0,deny,manual,1.85,,true,true,"",https://cdn.shopify.com/s/files/1/0605/2898/4321/products/Prieskoniumisinyssukanapemis.jpg?v=1634634451,1,,false,,,,,,,,,,,,,,,,,kg,,,active
+prieskoniu-misinys-su-kanapemis,,,,,,,,,250g,,,,,80-1,1000.0,,0,deny,manual,4.63,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+prieskoniu-misinys-su-kanapemis,,,,,,,,,350g,,,,,80-2,1000.0,,0,deny,manual,6.48,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+prieskoniu-misinys-su-kanapemis,,,,,,,,,1kg,,,,,80-3,1000.0,,0,deny,manual,18.50,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+prieskoniu-misinys-su-alyvuogemis,Prieskonių mišinys su alyvuogėmis,"<p>Tinka picoms, salotoms, makaronams, lazanijoms, koldūnams, kiaušiniams.</p>
+<p>Sudėtis: česnakai, raudonos ir žalios paprikos, svogūnai, alyvuogės, pomidorai, raudonėliai, petražolės, juodieji pipirai.</p>",Paskanink,"Food, Beverages & Tobacco > Food Items > Seasonings & Spices",,"",true,Size,100g,,,,,79,1000.0,,0,deny,manual,2.65,,true,true,"",https://cdn.shopify.com/s/files/1/0605/2898/4321/products/Prieskoniumisinyssualyvuogemis.jpg?v=1634634388,1,,false,,,,,,,,,,,,,,,,,kg,,,active
+prieskoniu-misinys-su-alyvuogemis,,,,,,,,,250g,,,,,79-1,1000.0,,0,deny,manual,6.63,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+prieskoniu-misinys-su-alyvuogemis,,,,,,,,,350g,,,,,79-2,1000.0,,0,deny,manual,9.28,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+prieskoniu-misinys-su-alyvuogemis,,,,,,,,,1kg,,,,,79-2,1000.0,,0,deny,manual,26.50,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+prieskoniu-misinys-mesai-marinuoti,Prieskonių mišinys mėsai marinuoti,"Sudėtis: česnakai, mairūnai, juodieji pipirai, kvapieji pipirai, laurų lapai.",Paskanink,"Food, Beverages & Tobacco > Food Items > Seasonings & Spices",,"",true,Size,100g,,,,,78,1000.0,,0,deny,manual,1.25,,true,true,"",https://cdn.shopify.com/s/files/1/0605/2898/4321/products/Prieskoniumisinysmesaimarinuoti.jpg?v=1634634324,1,,false,,,,,,,,,,,,,,,,,kg,,,active
+prieskoniu-misinys-mesai-marinuoti,,,,,,,,,250g,,,,,78-1,1000.0,,0,deny,manual,3.13,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+prieskoniu-misinys-mesai-marinuoti,,,,,,,,,350g,,,,,78-2,1000.0,,0,deny,manual,4.38,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+prieskoniu-misinys-mesai-marinuoti,,,,,,,,,1kg,,,,,78-3,1000.0,,0,deny,manual,12.50,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+prieskoniu-misinys-doner,"Prieskonių mišinys ""Doner""","<p>Visų rūšių mėsai.</p>
+<p>Sudėtis: druska, saldžios raudonos paprikos, česnakai, aštrios raudonos paprikos, juodieji pipirai, čili, raudonėliai, bazilikai, rozmarinas, augaliniai riebalai.</p>",Paskanink,"Food, Beverages & Tobacco > Food Items > Seasonings & Spices",,"",true,Size,100g,,,,,77,1000.0,,0,deny,manual,1.45,,true,true,"",https://cdn.shopify.com/s/files/1/0605/2898/4321/products/Prieskoniumisinysdoner.jpg?v=1634634247,1,,false,,,,,,,,,,,,,,,,,kg,,,active
+prieskoniu-misinys-doner,,,,,,,,,250g,,,,,77-1,1000.0,,0,deny,manual,3.63,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+prieskoniu-misinys-doner,,,,,,,,,350g,,,,,77-2,1000.0,,0,deny,manual,5.08,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+prieskoniu-misinys-doner,,,,,,,,,1kg,,,,,77-3,1000.0,,0,deny,manual,14.50,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+prieskoniai-zuviai-su-zagreniu,Prieskoniai žuviai su žagreniu,"<p>Tinka žuviai, salotoms, mėsai.  Labai gardūs.</p>
+<p>Sudėtis: česnakai, svogūnai, krapai, žagreniai, raudonos saldžios paprikos, petražolės, imbierai.</p>",Paskanink,"Food, Beverages & Tobacco > Food Items > Seasonings & Spices",,"",true,Size,100g,,,,,76,1000.0,,0,deny,manual,2.15,,true,true,"",https://cdn.shopify.com/s/files/1/0605/2898/4321/products/Prieskoniaizuviaisuzagreniu.jpg?v=1634634104,1,,false,,,,,,,,,,,,,,,,,kg,,,active
+prieskoniai-zuviai-su-zagreniu,,,,,,,,,250g,,,,,76-1,1000.0,,0,deny,manual,5.38,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+prieskoniai-zuviai-su-zagreniu,,,,,,,,,350g,,,,,76-2,1000.0,,0,deny,manual,7.53,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+prieskoniai-zuviai-su-zagreniu,,,,,,,,,1kg,,,,,76-3,1000.0,,0,deny,manual,21.50,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+prieskoniai-sefo,Prieskoniai šefo,"<p>Naudoti pagal skonį.</p>
+<p>Sudėtis: garstyčių sėklos, saldi paprika, kmynų sėklos, žalia paprika.</p>",Paskanink,"Food, Beverages & Tobacco > Food Items > Seasonings & Spices",,"",true,Size,100g,,,,,75,1000.0,,0,deny,manual,1.85,,true,true,"",https://cdn.shopify.com/s/files/1/0605/2898/4321/products/Prieskoniaisefo.jpg?v=1634634038,1,,false,,,,,,,,,,,,,,,,,kg,,,active
+prieskoniai-sefo,,,,,,,,,250g,,,,,75-1,1000.0,,0,deny,manual,4.63,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+prieskoniai-sefo,,,,,,,,,350g,,,,,75-2,1000.0,,0,deny,manual,6.48,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+prieskoniai-sefo,,,,,,,,,1kg,,,,,75-3,1000.0,,0,deny,manual,18.50,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+prieskoniai-picai,Prieskoniai picai,"Sudėtis: valgomoji druska, bazilikas, raudonėliai, petražolės, aštrios raudonos paprikos, cukrus, salierai, kmynai, mairūnai, saldžios raudonos paprikos.",Paskanink,"Food, Beverages & Tobacco > Food Items > Seasonings & Spices",,"",true,Size,100g,,,,,74,1000.0,,0,deny,manual,1.20,,true,true,"",https://cdn.shopify.com/s/files/1/0605/2898/4321/products/Prieskoniaipicai.jpg?v=1634633976,1,,false,,,,,,,,,,,,,,,,,kg,,,active
+prieskoniai-picai,,,,,,,,,250g,,,,,74-1,1000.0,,0,deny,manual,3.00,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+prieskoniai-picai,,,,,,,,,350g,,,,,74-2,1000.0,,0,deny,manual,4.20,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+prieskoniai-picai,,,,,,,,,1kg,,,,,74-3,1000.0,,0,deny,manual,12.00,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+plovui-su-raugeriskio-uogomis,Plovui su raugeriškio uogomis,"Sudėtis: raudonos saldžios paprikos, kuminas,  kalendra, ciberžolė,  raugeriškio uogos,  svogūnai, lauro lapai, karis, juodieji pipirai, čiobreliai, aitrioji čili paprikėlė.",Paskanink,"Food, Beverages & Tobacco > Food Items > Seasonings & Spices",,"",true,Size,100g,,,,,73,1000.0,,0,deny,manual,3.25,,true,true,"",https://cdn.shopify.com/s/files/1/0605/2898/4321/products/Plovuisuraugeriskiouogomis.jpg?v=1634633911,1,,false,,,,,,,,,,,,,,,,,kg,,,active
+plovui-su-raugeriskio-uogomis,,,,,,,,,250g,,,,,73-1,1000.0,,0,deny,manual,8.13,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+plovui-su-raugeriskio-uogomis,,,,,,,,,350g,,,,,73-2,1000.0,,0,deny,manual,11.38,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+plovui-su-raugeriskio-uogomis,,,,,,,,,1kg,,,,,73-3,1000.0,,0,deny,manual,32.50,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+plovui-maltas-su-raugeriskio-uogomis,Plovui maltas su raugeriškio uogomis,"<p>Tinka gardinti plovui, makaronams, ryžiams ir padažams.</p>
+<p>Sudėtis: raudonos saldžiosios paprikos, kuminai, kalendros, ciberžolė,  raugeriškio uogos, svogūnai,  lauro lapai, kario prieskoniai, juodieji pipirai, čiobreliai, aitrioji paprika čili.</p>",Paskanink,"Food, Beverages & Tobacco > Food Items > Seasonings & Spices",,"",true,Size,100g,,,,,72,1000.0,,0,deny,manual,2.45,,true,true,"",https://cdn.shopify.com/s/files/1/0605/2898/4321/products/Plovuimaltassuraugeriskiouogomis.jpg?v=1634633828,1,,false,,,,,,,,,,,,,,,,,kg,,,active
+plovui-maltas-su-raugeriskio-uogomis,,,,,,,,,250g,,,,,72-1,1000.0,,0,deny,manual,6.13,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+plovui-maltas-su-raugeriskio-uogomis,,,,,,,,,350g,,,,,72-2,1000.0,,0,deny,manual,8.58,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+plovui-maltas-su-raugeriskio-uogomis,,,,,,,,,1kg,,,,,72-3,1000.0,,0,deny,manual,24.50,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+pipiru-misinys-steikui,Pipirų mišinys steikui,"<p>Prieskoniai suteikia puikų skonį virtiems, keptiems, troškintiems mėsos patiekalams.</p>
+<p>Sudėtis: juodieji ir baltieji pipirai, raudonos saldžios paprikos, česnakai, svogūnai, petražolės, čiobreliai.</p>",Paskanink,"Food, Beverages & Tobacco > Food Items > Seasonings & Spices",,"",true,Size,100g,,,,,71,1000.0,,0,deny,manual,2.75,,true,true,"",https://cdn.shopify.com/s/files/1/0605/2898/4321/products/Pipirumisinyssteikui.jpg?v=1634633686,1,,false,,,,,,,,,,,,,,,,,kg,,,active
+pipiru-misinys-steikui,,,,,,,,,250g,,,,,71-1,1000.0,,0,deny,manual,6.88,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+pipiru-misinys-steikui,,,,,,,,,350g,,,,,71-2,1000.0,,0,deny,manual,9.63,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+pipiru-misinys-steikui,,,,,,,,,1kg,,,,,71-3,1000.0,,0,deny,manual,27.50,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+pipiru-misinys-didkepsniui,Pipirų mišinys didkepsniui,"Sudėtis: juodieji pipirai, česnakai, valgomoji druska.",Paskanink,"Food, Beverages & Tobacco > Food Items > Seasonings & Spices",,"",true,Size,100g,,,,,70,1000.0,,0,deny,manual,2.35,,true,true,"",https://cdn.shopify.com/s/files/1/0605/2898/4321/products/Pipirumisinysdidkepsniui.jpg?v=1634632790,1,,false,,,,,,,,,,,,,,,,,kg,,,active
+pipiru-misinys-didkepsniui,,,,,,,,,250g,,,,,70-1,1000.0,,0,deny,manual,5.88,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+pipiru-misinys-didkepsniui,,,,,,,,,350g,,,,,70-2,1000.0,,0,deny,manual,8.23,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+pipiru-misinys-didkepsniui,,,,,,,,,1kg,,,,,70-3,1000.0,,0,deny,manual,23.50,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+pipirmete,Pipirmėtė,Naudojama pagal skonį.,Paskanink,"Food, Beverages & Tobacco > Food Items > Seasonings & Spices",,"",true,Size,100g,,,,,69,1000.0,,0,deny,manual,1.40,,true,true,"",https://cdn.shopify.com/s/files/1/0605/2898/4321/products/Pipirmete.jpg?v=1634632737,1,,false,,,,,,,,,,,,,,,,,kg,,,active
+pipirmete,,,,,,,,,250g,,,,,69-1,1000.0,,0,deny,manual,3.50,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+pipirmete,,,,,,,,,350g,,,,,69-2,1000.0,,0,deny,manual,4.90,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+pipirmete,,,,,,,,,1kg,,,,,69-3,1000.0,,0,deny,manual,14.00,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+pipirinis-astrus,Pipirinis aštrus,"Sudėtis: juodieji pipirai, česnakai, muskato riešutai, valgomoji druska,  hidrolizuoti augaliniai baltymai, gelsvė, skonio stipriklis  E621.",Paskanink,"Food, Beverages & Tobacco > Food Items > Seasonings & Spices",,"",true,Size,100g,,,,,68,1000.0,,0,deny,manual,13.50,,true,true,"",https://cdn.shopify.com/s/files/1/0605/2898/4321/products/Pipirinisastrus.jpg?v=1634632671,1,,false,,,,,,,,,,,,,,,,,kg,,,active
+pipirinis-astrus,,,,,,,,,250g,,,,,68-1,1000.0,,0,deny,manual,13.50,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+pipirinis-astrus,,,,,,,,,350g,,,,,68-2,1000.0,,0,deny,manual,13.50,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+pipirinis-astrus,,,,,,,,,1kg,,,,,68-3,1000.0,,0,deny,manual,13.50,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+pikantiski-picai-be-druskos,Pikantiški picai be druskos,"Sudėtis: ožragė, svogūnai, raudonėliai, rozmarinai, mairūnai, kalendra, garstyčių sėklos, juodieji pipirai.",Paskanink,"Food, Beverages & Tobacco > Food Items > Seasonings & Spices",,"",true,Size,100g,,,,,67,1000.0,,0,deny,manual,1.15,,true,true,"",https://cdn.shopify.com/s/files/1/0605/2898/4321/products/Pikantiskipicaibedruskos.jpg?v=1634632601,1,,false,,,,,,,,,,,,,,,,,kg,,,active
+pikantiski-picai-be-druskos,,,,,,,,,250g,,,,,67-1,1000.0,,0,deny,manual,2.28,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+pikantiski-picai-be-druskos,,,,,,,,,350g,,,,,67-2,1000.0,,0,deny,manual,4.03,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+pikantiski-picai-be-druskos,,,,,,,,,1kg,,,,,67-3,1000.0,,0,deny,manual,11.50,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+persiladas,Persiladas,"<p>Tinka naudoti mėsos, troškinių gamybai, varškei.</p>
+<p>Sudėtis: petražolės, česnakas, jūros druska.</p>",Paskanink,"Food, Beverages & Tobacco > Food Items > Seasonings & Spices",,"",true,Size,100g,,,,,66,1000.0,,0,deny,manual,1.25,,true,true,"",https://cdn.shopify.com/s/files/1/0605/2898/4321/products/Persiladas.jpg?v=1634632531,1,,false,,,,,,,,,,,,,,,,,kg,,,active
+persiladas,,,,,,,,,250g,,,,,66-1,1000.0,,0,deny,manual,3.13,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+persiladas,,,,,,,,,350g,,,,,66-2,1000.0,,0,deny,manual,4.38,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+persiladas,,,,,,,,,1kg,,,,,66-3,1000.0,,0,deny,manual,12.50,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+peletrunai,Peletrūnai,Naudojami pagal skonį.,Paskanink,"Food, Beverages & Tobacco > Food Items > Seasonings & Spices",,"",true,Size,100g,,,,,65,1000.0,,0,deny,manual,1.45,,true,true,"",https://cdn.shopify.com/s/files/1/0605/2898/4321/products/Peletrunai.jpg?v=1634632468,1,,false,,,,,,,,,,,,,,,,,kg,,,active
+peletrunai,,,,,,,,,250g,,,,,65-1,1000.0,,0,deny,manual,3.63,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+peletrunai,,,,,,,,,350g,,,,,65-2,1000.0,,0,deny,manual,5.08,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+peletrunai,,,,,,,,,1kg,,,,,65-3,1000.0,,0,deny,manual,14.50,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+paukstienai-su-medumi,Paukštienai su medumi,"Sudėtis: valgomoji druska, cukrus, svogūnai, česnakai, saldžios raudonos paprikos, medus 15.8 %, imbierai, pomidorai, maltodekstrinas, cinamonas, aitrios čili paprikėlės, skystas paprikų ekstraktas, petražolės, bazilikai.",Paskanink,"Food, Beverages & Tobacco > Food Items > Seasonings & Spices",,"",true,Size,100g,,,,,64,1000.0,,0,deny,manual,1.35,,true,true,"",https://cdn.shopify.com/s/files/1/0605/2898/4321/products/Paukstienaisumedumi.jpg?v=1634632401,1,,false,,,,,,,,,,,,,,,,,kg,,,active
+paukstienai-su-medumi,,,,,,,,,250g,,,,,64-1,1000.0,,0,deny,manual,3.38,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+paukstienai-su-medumi,,,,,,,,,350g,,,,,64-2,1000.0,,0,deny,manual,4.73,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+paukstienai-su-medumi,,,,,,,,,1kg,,,,,64-3,1000.0,,0,deny,manual,13.50,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+paukstienai-su-juros-druska,Paukštienai su jūros druska,"Sudėtis: cukrus, saldžios raudonos paprikos, jūros druska, svogūnai, česnakai, pomidorai, imbierai, ciberžolė, juodieji pipirai, kviečių skaidulos, Romos kmynai, cinamonas.",Paskanink,"Food, Beverages & Tobacco > Food Items > Seasonings & Spices",,"",true,Size,100g,,,,,63,1000.0,,0,deny,manual,11.00,,true,true,"",https://cdn.shopify.com/s/files/1/0605/2898/4321/products/Paukstienaisujurosdruska.jpg?v=1634632158,1,,false,,,,,,,,,,,,,,,,,kg,,,active
+paukstienai-su-juros-druska,,,,,,,,,250g,,,,,63-1,1000.0,,0,deny,manual,11.00,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+paukstienai-su-juros-druska,,,,,,,,,350g,,,,,63-2,1000.0,,0,deny,manual,11.00,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+paukstienai-su-juros-druska,,,,,,,,,1kg,,,,,63-4,1000.0,,0,deny,manual,11.00,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+paukstienai-be-druskos,Paukštienai be druskos,"Sudėtis: saldžios raudonos paprikos, česnakai, svogūnai, maltodekstrinas, ciberžolė, cukrus, kmynai, baltieji pipirai, mairūnai, imbierai, čili,  augaliniai baltymai.",Paskanink,"Food, Beverages & Tobacco > Food Items > Seasonings & Spices",,"",true,Size,100g,,,,,62,1000.0,,0,deny,manual,1.25,,true,true,"",https://cdn.shopify.com/s/files/1/0605/2898/4321/products/Paukstienaibedruskos.jpg?v=1634632112,1,,false,,,,,,,,,,,,,,,,,kg,,,active
+paukstienai-be-druskos,,,,,,,,,250g,,,,,62-1,1000.0,,0,deny,manual,3.13,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+paukstienai-be-druskos,,,,,,,,,350g,,,,,62-2,1000.0,,0,deny,manual,4.34,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+paukstienai-be-druskos,,,,,,,,,1kg,,,,,62-3,1000.0,,0,deny,manual,12.50,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+pankolis,Pankolis,"Naudojamas mėsai, troškiniams, arbatai.",Paskanink,"Food, Beverages & Tobacco > Food Items > Seasonings & Spices",,"",true,Size,100g,,,,,61,1000.0,,0,deny,manual,11.50,,true,true,"",https://cdn.shopify.com/s/files/1/0605/2898/4321/products/Pankolis.jpg?v=1634632047,1,,false,,,,,,,,,,,,,,,,,kg,,,active
+pankolis,,,,,,,,,250g,,,,,61-1,1000.0,,0,deny,manual,11.50,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+pankolis,,,,,,,,,350g,,,,,61-2,1000.0,,0,deny,manual,11.50,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+pankolis,,,,,,,,,1kg,,,,,61-3,1000.0,,0,deny,manual,11.50,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+ozragiu-seklos,Ožragių sėklos,Naudojamos pagal skonį.,Paskanink,"Food, Beverages & Tobacco > Food Items > Seasonings & Spices",,"",true,Size,100g,,,,,60,1000.0,,0,deny,manual,1.25,,true,true,"",https://cdn.shopify.com/s/files/1/0605/2898/4321/products/Ozragiuseklos_0e784869-bc5d-4fb0-8f8d-46fa8524fd3e.jpg?v=1634631911,1,,false,,,,,,,,,,,,,,,,,kg,,,active
+ozragiu-seklos,,,,,,,,,250g,,,,,60-1,1000.0,,0,deny,manual,3.13,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+ozragiu-seklos,,,,,,,,,350g,,,,,60-2,1000.0,,0,deny,manual,4.38,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+ozragiu-seklos,,,,,,,,,1kg,,,,,60-3,1000.0,,0,deny,manual,12.50,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+ozragiu-seklos-maltos,Ožragių sėklos maltos,Naudojamos pagal skonį.,Paskanink,"Food, Beverages & Tobacco > Food Items > Seasonings & Spices",,"",true,Size,100g,,,,,59,1000.0,,0,deny,manual,1.25,,true,true,"",https://cdn.shopify.com/s/files/1/0605/2898/4321/products/Ozragiuseklosmaltos.jpg?v=1634631938,1,,false,,,,,,,,,,,,,,,,,kg,,,active
+ozragiu-seklos-maltos,,,,,,,,,250g,,,,,59-1,1000.0,,0,deny,manual,3.13,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+ozragiu-seklos-maltos,,,,,,,,,350g,,,,,59-2,1000.0,,0,deny,manual,4.34,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+ozragiu-seklos-maltos,,,,,,,,,1kg,,,,,59-3,1000.0,,0,deny,manual,12.50,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+mesos-marinavimui,Mėsos marinavimui,"Sudėtis: svogūnai, valgomoji druska, česnakai, petražolės, juodieji ir žalieji pipirai, kario prieskoniai, žaliosios paprikos, porai, kadagio uogos.",Paskanink,"Food, Beverages & Tobacco > Food Items > Seasonings & Spices",,"",true,Size,100g,,,,,58,1000.0,,0,deny,manual,1.45,,true,true,"",https://cdn.shopify.com/s/files/1/0605/2898/4321/products/Mesosmarinavimui.jpg?v=1634631764,1,,false,,,,,,,,,,,,,,,,,kg,,,active
+mesos-marinavimui,,,,,,,,,250g,,,,,58-1,1000.0,,0,deny,manual,3.63,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+mesos-marinavimui,,,,,,,,,350g,,,,,58-2,1000.0,,0,deny,manual,5.08,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+mesos-marinavimui,,,,,,,,,1kg,,,,,58-3,1000.0,,0,deny,manual,14.50,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+muskato-riesutai,Muskato riešutai,Naudojamas pagal skonį.,Paskanink,"Food, Beverages & Tobacco > Food Items > Seasonings & Spices",,"",true,Size,100g,,,,,57,1000.0,,0,deny,manual,9.20,,true,true,"",https://cdn.shopify.com/s/files/1/0605/2898/4321/products/Muskatoriesutai.jpg?v=1634631686,1,,false,,,,,,,,,,,,,,,,,kg,,,active
+muskato-riesutai,,,,,,,,,250g,,,,,57-1,1000.0,,0,deny,manual,23.00,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+muskato-riesutai,,,,,,,,,350g,,,,,57-2,1000.0,,0,deny,manual,32.20,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+muskato-riesutai,,,,,,,,,1kg,,,,,57-3,1000.0,,0,deny,manual,92.00,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+mozzarella-tomate,Mozzarella tomate,"<p>Tinka ir mėsos gaminiams, ir sūriui, varškei.</p>
+<p>Sudėtis: pomidorai, svogūnai, druska, bazilikas, paprika, čiobrelis, raudonėlis, pipirai, česnakai, čili pipirai, petražolės.</p>",Paskanink,"Food, Beverages & Tobacco > Food Items > Seasonings & Spices",,"",true,Size,100g,,,,,56,1000.0,,0,deny,manual,1.65,,true,true,"",https://cdn.shopify.com/s/files/1/0605/2898/4321/products/Mozzarellatomate.jpg?v=1634631599,1,,false,,,,,,,,,,,,,,,,,kg,,,active
+mozzarella-tomate,,,,,,,,,250g,,,,,56-1,1000.0,,0,deny,manual,4.13,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+mozzarella-tomate,,,,,,,,,350g,,,,,56-2,1000.0,,0,deny,manual,5.78,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+mozzarella-tomate,,,,,,,,,1kg,,,,,56-3,1000.0,,0,deny,manual,16.50,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+morkos-smulkintos,Morkos smulkintos,"Naudojamos sriuboms, troškiniams, sultiniui.",Paskanink,"Food, Beverages & Tobacco > Food Items > Seasonings & Spices",,"",true,Size,100g,,,,,55,1000.0,,0,deny,manual,0.78,,true,true,"",https://cdn.shopify.com/s/files/1/0605/2898/4321/products/Morkossmulkintos.jpg?v=1634631504,1,,false,,,,,,,,,,,,,,,,,kg,,,active
+morkos-smulkintos,,,,,,,,,250g,,,,,55-1,1000.0,,0,deny,manual,1.95,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+morkos-smulkintos,,,,,,,,,350g,,,,,55-2,1000.0,,0,deny,manual,2.73,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+morkos-smulkintos,,,,,,,,,1kg,,,,,55-3,1000.0,,0,deny,manual,7.80,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+miksiukas,Miksiukas,"<p>Tinka visų rūšių mėsai.</p>
+<p>Sudėtis: garstyčių sėklos, morkos, pomidorai, juodieji pipirai, mairūnai, lauro lapai, muskatas, kvapieji pipirai, ciberžolė.</p>",Paskanink,"Food, Beverages & Tobacco > Food Items > Seasonings & Spices",,"",true,Size,100g,,,,,54,1000.0,,0,deny,manual,1.20,,true,true,"",https://cdn.shopify.com/s/files/1/0605/2898/4321/products/Miksiukas.jpg?v=1634631426,1,,false,,,,,,,,,,,,,,,,,kg,,,active
+miksiukas,,,,,,,,,250g,,,,,54-1,1000.0,,0,deny,manual,3.00,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+miksiukas,,,,,,,,,350g,,,,,54-2,1000.0,,0,deny,manual,4.20,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+miksiukas,,,,,,,,,1kg,,,,,54-3,1000.0,,0,deny,manual,12.00,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+meksikietiskas-be-kalendros,Meksikietiškas be kalendros,"Sudėtis: svogūnai, garstyčių sėklos, morkos, saldžios raudonos paprikos, kmynai, juodieji pipirai, česnakai, saldžios žalios paprikos, kvapieji  pipirai.",Paskanink,"Food, Beverages & Tobacco > Food Items > Seasonings & Spices",,"",true,Size,100g,,,,,53,1000.0,,0,deny,manual,1.20,,true,true,"",https://cdn.shopify.com/s/files/1/0605/2898/4321/products/Meksikietiskasbekalendros.jpg?v=1634631283,1,,false,,,,,,,,,,,,,,,,,kg,,,active
+meksikietiskas-be-kalendros,,,,,,,,,250g,,,,,53-1,1000.0,,0,deny,manual,3.00,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+meksikietiskas-be-kalendros,,,,,,,,,350g,,,,,53-2,1000.0,,0,deny,manual,4.20,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+meksikietiskas-be-kalendros,,,,,,,,,1kg,,,,,53-3,1000.0,,0,deny,manual,12.00,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+meduoliams,Meduoliams,"Sudėtis: cinamonas, muskatų riešutai, kvapieji pipirai, imbierai, gvazdikėliai.",Paskanink,"Food, Beverages & Tobacco > Food Items > Seasonings & Spices",,"",true,Size,100g,,,,,52,1000.0,,0,deny,manual,1.35,,true,true,"",https://cdn.shopify.com/s/files/1/0605/2898/4321/products/Meduoliams.jpg?v=1634631185,1,,false,,,,,,,,,,,,,,,,,kg,,,active
+meduoliams,,,,,,,,,250g,,,,,52-1,1000.0,,0,deny,manual,3.38,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+meduoliams,,,,,,,,,350g,,,,,52-2,1000.0,,0,deny,manual,4.73,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+meduoliams,,,,,,,,,1kg,,,,,52-3,1000.0,,0,deny,manual,13.50,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+margainio-seklos,Margainio sėklos,"Naudojami kepiniuose arba prieš valgį,  sumaišius su vandeniu.",Paskanink,"Food, Beverages & Tobacco > Food Items > Seasonings & Spices",,"",true,Size,100g,,,,,51,1000.0,,0,deny,manual,1.35,,true,true,"",https://cdn.shopify.com/s/files/1/0605/2898/4321/products/Margainioseklos.jpg?v=1634631033,1,,false,,,,,,,,,,,,,,,,,kg,,,active
+margainio-seklos,,,,,,,,,250g,,,,,51-1,1000.0,,0,deny,manual,3.38,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+margainio-seklos,,,,,,,,,350g,,,,,51-2,1000.0,,0,deny,manual,4.73,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+margainio-seklos,,,,,,,,,1kg,,,,,51-3,1000.0,,0,deny,manual,13.50,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+1-65,Malti pipirai,Naudojami pagal skonį.,Paskanink,"Food, Beverages & Tobacco > Food Items > Seasonings & Spices",,"",true,Size,100g,,,,,50,1000.0,,0,deny,manual,1.65,,true,true,"",https://cdn.shopify.com/s/files/1/0605/2898/4321/products/Maltipipirai.jpg?v=1634630890,1,,false,,,,,,,,,,,,,,,,,kg,,,active
+1-65,,,,,,,,,250g,,,,,50-1,1000.0,,0,deny,manual,4.13,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+1-65,,,,,,,,,350g,,,,,50-2,1000.0,,0,deny,manual,5.78,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+1-65,,,,,,,,,1kg,,,,,50-3,1000.0,,0,deny,manual,16.50,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+malti-kvapnieji-pipirai,Malti kvapnieji pipirai,Naudojami pagal skonį.,Paskanink,"Food, Beverages & Tobacco > Food Items > Seasonings & Spices",,"",true,Size,100g,,,,,49,1000.0,,0,deny,manual,1.35,,true,true,"",https://cdn.shopify.com/s/files/1/0605/2898/4321/products/Maltikvapnieji.jpg?v=1634630817,1,,false,,,,,,,,,,,,,,,,,kg,,,active
+malti-kvapnieji-pipirai,,,,,,,,,250g,,,,,49-1,1000.0,,0,deny,manual,3.38,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+malti-kvapnieji-pipirai,,,,,,,,,350g,,,,,49-2,1000.0,,0,deny,manual,4.73,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+malti-kvapnieji-pipirai,,,,,,,,,1kg,,,,,49-3,1000.0,,0,deny,manual,13.50,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+madridas,Madridas,"<p>Universalus mišinukas.</p>
+<p>Sudėtis: svogūnai, česnakai, morkos, saldžios raudonos paprikos, ciberžolė,  porai, juodieji pipirai, jūros druska 3 %.</p>",Paskanink,"Food, Beverages & Tobacco > Food Items > Seasonings & Spices",,"",true,Size,100g,,,,,48,1000.0,,0,deny,manual,1.50,,true,true,"",https://cdn.shopify.com/s/files/1/0605/2898/4321/products/Madridas.jpg?v=1634630697,1,,false,,,,,,,,,,,,,,,,,kg,,,active
+madridas,,,,,,,,,250g,,,,,48-1,1000.0,,0,deny,manual,3.75,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+madridas,,,,,,,,,350g,,,,,48-2,1000.0,,0,deny,manual,5.25,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+madridas,,,,,,,,,1kg,,,,,48-3,1000.0,,0,deny,manual,15.00,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+lasinukams,Lašinukams,"<p>Skirti ilgo galiojimo gaminiams, lašiniams, dešroms.</p>
+<p>Sudėtis: juodieji pipirai, baltieji pipirai, žalieji pipirai, česnakai, kvapieji pipirai, laurų lapai, raudonieji pipirai.</p>",Paskanink,"Food, Beverages & Tobacco > Food Items > Seasonings & Spices",,"",true,Size,100g,,,,,47,1000.0,,0,deny,manual,3.60,,true,true,"",https://cdn.shopify.com/s/files/1/0605/2898/4321/products/Lasinukams.jpg?v=1634630614,1,,false,,,,,,,,,,,,,,,,,kg,,,active
+lasinukams,,,,,,,,,250g,,,,,47-1,1000.0,,0,deny,manual,9.00,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+lasinukams,,,,,,,,,350g,,,,,47-2,1000.0,,0,deny,manual,12.60,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+lasinukams,,,,,,,,,1kg,,,,,47-3,1000.0,,0,deny,manual,36.00,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+lasiniuotis-stambus,Lašiniuotis stambus,"<p>Naudojami lašinukams ir dešrų gamybai.</p>
+<p> Sudėtis: šesnakai, juodieji pipirai, lauro lapai, kvapieji pipirai, kalendra.</p>",Paskanink,"Food, Beverages & Tobacco > Food Items > Seasonings & Spices",,"",true,Size,100g,,,,,46,1000.0,,0,deny,manual,1.90,,true,true,"",https://cdn.shopify.com/s/files/1/0605/2898/4321/products/Lasiniuotisstambus.jpg?v=1634630539,1,,false,,,,,,,,,,,,,,,,,kg,,,active
+lasiniuotis-stambus,,,,,,,,,250g,,,,,46-1,1000.0,,0,deny,manual,4.75,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+lasiniuotis-stambus,,,,,,,,,350g,,,,,46-2,1000.0,,0,deny,manual,6.65,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+lasiniuotis-stambus,,,,,,,,,1kg,,,,,46-3,1000.0,,0,deny,manual,19.00,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+lasiniuotis-smulkus,Lašiniuotis smulkus,"<p>Tinka lašiniams, dešrų gamybai.</p>
+<p>Sudėtis: česnakai, juodieji pipirai, laurų lapai, kvapieji pipirai, kalendrų sėklos.</p>",Paskanink,"Food, Beverages & Tobacco > Food Items > Seasonings & Spices",,"",true,Size,100g,,,,,45,1000.0,,0,deny,manual,1.90,,true,true,"",https://cdn.shopify.com/s/files/1/0605/2898/4321/products/Lasiniuotissmulkus.jpg?v=1634630249,1,,false,,,,,,,,,,,,,,,,,kg,,,active
+lasiniuotis-smulkus,,,,,,,,,250g,,,,,45-1,1000.0,,0,deny,manual,4.75,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+lasiniuotis-smulkus,,,,,,,,,350g,,,,,45-2,1000.0,,0,deny,manual,6.65,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+lasiniuotis-smulkus,,,,,,,,,1kg,,,,,45-3,1000.0,,0,deny,manual,19.00,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+lauko-kepsniu-prieskoniai,Lauko kepsnių prieskoniai,"Sudėtis: česnakai, raudonos saldžios paprikos, bazilikai, kalendros, juodieji pipirai,  lauro lapai, ožragės, čili,  kmynai, muskatai, petražolės, druska 14%.",Paskanink,"Food, Beverages & Tobacco > Food Items > Seasonings & Spices",,"",true,Size,100g,,,,,44,1000.0,,0,deny,manual,1.60,,true,true,"",https://cdn.shopify.com/s/files/1/0605/2898/4321/products/Laukokepsniuprieskoniai.jpg?v=1634630176,1,,false,,,,,,,,,,,,,,,,,kg,,,active
+lauko-kepsniu-prieskoniai,,,,,,,,,250g,,,,,44-1,1000.0,,0,deny,manual,4.00,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+lauko-kepsniu-prieskoniai,,,,,,,,,350g,,,,,44-2,1000.0,,0,deny,manual,5.60,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+lauko-kepsniu-prieskoniai,,,,,,,,,1kg,,,,,44-3,1000.0,,0,deny,manual,16.00,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+kvapnieji-pipirai,Kvapnieji pipirai,Naudojami pagal skonį.,Paskanink,"Food, Beverages & Tobacco > Food Items > Seasonings & Spices",,"",true,Size,100g,,,,,43,1000.0,,0,deny,manual,1.35,,true,true,"",https://cdn.shopify.com/s/files/1/0605/2898/4321/products/Kvapniejipipirai.jpg?v=1634630105,1,,false,,,,,,,,,,,,,,,,,kg,,,active
+kvapnieji-pipirai,,,,,,,,,250g,,,,,43-1,1000.0,,0,deny,manual,3.38,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+kvapnieji-pipirai,,,,,,,,,350g,,,,,43-2,1000.0,,0,deny,manual,4.73,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+kvapnieji-pipirai,,,,,,,,,1kg,,,,,43-3,1000.0,,0,deny,manual,13.50,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+kuminas-maltas,Kuminas maltas,"<span data-mce-fragment=""1"">Romos kmynai, naudojami pagal skonį. Turi stiprų aromatą.</span>",Paskanink,"Food, Beverages & Tobacco > Food Items > Seasonings & Spices",,"",true,Size,100g,,,,,42,1000.0,,0,deny,manual,1.25,,true,true,"",https://cdn.shopify.com/s/files/1/0605/2898/4321/products/Kuminasmaltas.jpg?v=1634630024,1,,false,,,,,,,,,,,,,,,,,kg,,,active
+kuminas-maltas,,,,,,,,,250g,,,,,42-1,1000.0,,0,deny,manual,3.13,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+kuminas-maltas,,,,,,,,,350g,,,,,42-2,1000.0,,0,deny,manual,4.38,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+kuminas-maltas,,,,,,,,,1kg,,,,,42-3,1000.0,,0,deny,manual,12.50,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+kuminai,Kuminai,"Romos kmynai, naudojami pagal skonį. Turi stiprų aromatą.",Paskanink,"Food, Beverages & Tobacco > Food Items > Seasonings & Spices",,"",true,Size,100g,,,,,41,1000.0,,0,deny,manual,1.25,,true,true,"",https://cdn.shopify.com/s/files/1/0605/2898/4321/products/Kuminai.jpg?v=1634629902,1,,false,,,,,,,,,,,,,,,,,kg,,,active
+kuminai,,,,,,,,,250g,,,,,41-1,1000.0,,0,deny,manual,3.13,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+kuminai,,,,,,,,,350g,,,,,41-2,1000.0,,0,deny,manual,4.38,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+kuminai,,,,,,,,,1kg,,,,,41-3,1000.0,,0,deny,manual,12.50,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+krapu-seklos,Krapų sėklos,Naudojama arbatai arba marinatams.,Paskanink,"Food, Beverages & Tobacco > Food Items > Seasonings & Spices",,"",true,Size,100g,,,,,40,1000.0,,0,deny,manual,1.20,,true,true,"",https://cdn.shopify.com/s/files/1/0605/2898/4321/products/Krapuseklos.jpg?v=1634566182,1,,false,,,,,,,,,,,,,,,,,kg,,,active
+krapu-seklos,,,,,,,,,250g,,,,,40-1,1000.0,,0,deny,manual,3.00,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+krapu-seklos,,,,,,,,,350g,,,,,40-2,1000.0,,0,deny,manual,4.20,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+krapu-seklos,,,,,,,,,1kg,,,,,40-3,1000.0,,0,deny,manual,12.00,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+korejietiskos-morkytes,Korėjietiškos morkytės,"<p>Puikiai tinka įvairioms daržovių salotoms.</p>
+<p>Sudėtis: cukrus, valgomoji druska, laktozė, rūgštingumą reguliuojanti medžiaga citrinos rūgštis, maistinės kviečių skaidulos, česnakai, aitriosios čili paprikėlės, paprikos ekstraktas.</p>",Paskanink,"Food, Beverages & Tobacco > Food Items > Seasonings & Spices",,"",true,Size,100g,,,,,39,1000.0,,0,deny,manual,1.60,,true,true,"",https://cdn.shopify.com/s/files/1/0605/2898/4321/products/Korejietiskosmorkytes.jpg?v=1634566096,1,,false,,,,,,,,,,,,,,,,,kg,,,active
+korejietiskos-morkytes,,,,,,,,,250g,,,,,39-1,1000.0,,0,deny,manual,4.00,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+korejietiskos-morkytes,,,,,,,,,350g,,,,,39-2,1000.0,,0,deny,manual,5.60,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+korejietiskos-morkytes,,,,,,,,,1kg,,,,,39-3,1000.0,,0,deny,manual,16.00,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+kiaulienai-raudonas,Kiaulienai - raudonas,"Sudėtis: valgomoji druska, saldžios raudonos paprikos, česnakai, kalendra,  karis, cukrus, mairūnai, kmynai, petražolės, garstyčių sėklos.",Paskanink,"Food, Beverages & Tobacco > Food Items > Seasonings & Spices",,"",true,Size,100g,,,,,38,1000.0,,0,deny,manual,1.20,,true,true,"",https://cdn.shopify.com/s/files/1/0605/2898/4321/products/Kiaulienai-raudonas.jpg?v=1634566000,1,,false,,,,,,,,,,,,,,,,,kg,,,active
+kiaulienai-raudonas,,,,,,,,,250g,,,,,38-1,1000.0,,0,deny,manual,3.00,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+kiaulienai-raudonas,,,,,,,,,350g,,,,,38-2,1000.0,,0,deny,manual,4.20,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+kiaulienai-raudonas,,,,,,,,,1kg,,,,,38-3,1000.0,,0,deny,manual,12.00,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+keptoms-bulvems,Keptoms bulvėms,"Sudėtis: valgomoji druska, svogūnai, cukrus, kviečių skaidulos, baltieji pipirai, krapai.",Paskanink,"Food, Beverages & Tobacco > Food Items > Seasonings & Spices",,"",true,Size,100g,,,,,37,1000.0,,0,deny,manual,0.68,,true,true,"",https://cdn.shopify.com/s/files/1/0605/2898/4321/products/Keptomsbulvems.jpg?v=1634565932,1,,false,,,,,,,,,,,,,,,,,kg,,,active
+keptoms-bulvems,,,,,,,,,250g,,,,,37-1,1000.0,,0,deny,manual,1.70,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+keptoms-bulvems,,,,,,,,,350g,,,,,37-2,1000.0,,0,deny,manual,2.38,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+keptoms-bulvems,,,,,,,,,1kg,,,,,37-3,1000.0,,0,deny,manual,6.80,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+keptam-suriui,Keptam sūriui,"Sudėtis: druska 48%, svogūnai, česnakai, ciberžolės, saldžios raudonos paprikos, petražolės, peletrūnai, morkos, baltieji pipirai, maistinės skaidulos, karis.",Paskanink,"Food, Beverages & Tobacco > Food Items > Seasonings & Spices",,"",true,Size,100g,,,,,36,1000.0,,0,deny,manual,0.75,,true,true,"",https://cdn.shopify.com/s/files/1/0605/2898/4321/products/Keptamsuriui.jpg?v=1634565835,1,,false,,,,,,,,,,,,,,,,,kg,,,active
+keptam-suriui,,,,,,,,,250g,,,,,36-1,1000.0,,0,deny,manual,1.88,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+keptam-suriui,,,,,,,,,350g,,,,,36-2,1000.0,,0,deny,manual,2.63,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+keptam-suriui,,,,,,,,,1kg,,,,,36-3,1000.0,,0,deny,manual,7.50,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+kaukazietiskas,Kaukazietiškas,"<p>Naudojami mėsos gaminiams, troškiniams, sriuboms.</p>
+<p>Sudėtis: kalendrų sėklos, petražolės, valgomoji druska, česnakai, ciberžolės, čiobreliai, ožragių sėklos.</p>",Paskanink,"Food, Beverages & Tobacco > Food Items > Seasonings & Spices",,"",true,Size,100g,,,,,35,1000.0,,0,deny,manual,0.87,,true,true,"",https://cdn.shopify.com/s/files/1/0605/2898/4321/products/Kaukazietiskas.jpg?v=1634565785,1,,false,,,,,,,,,,,,,,,,,kg,,,active
+kaukazietiskas,,,,,,,,,250g,,,,,35-1,1000.0,,0,deny,manual,2.18,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+kaukazietiskas,,,,,,,,,350g,,,,,35-2,1000.0,,0,deny,manual,3.05,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+kaukazietiskas,,,,,,,,,1kg,,,,,35-3,1000.0,,0,deny,manual,8.70,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+karis,Karis,"<p>Naudojami pagal skonį.</p>
+<p>Sudėtis: gvazdikėliai, ožragė, imbieras, kalendra,  čili, kurkuma,  garstyčios, petražolės,  juodieji pipirai,  druska.</p>",Paskanink,"Food, Beverages & Tobacco > Food Items > Seasonings & Spices",,"",true,Size,100g,,,,,34,1000.0,,0,deny,manual,0.68,,true,true,"",https://cdn.shopify.com/s/files/1/0605/2898/4321/products/Karis.jpg?v=1634565710,1,,false,,,,,,,,,,,,,,,,,kg,,,active
+karis,,,,,,,,,250g,,,,,34-1,1000.0,,0,deny,manual,1.70,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+karis,,,,,,,,,350g,,,,,34-2,1000.0,,0,deny,manual,2.38,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+karis,,,,,,,,,1kg,,,,,34-3,1000.0,,0,deny,manual,6.80,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+kardamonai,Kardamonai,Naudojami pagal skonį.,Paskanink,"Food, Beverages & Tobacco > Food Items > Seasonings & Spices",,"",true,Size,100g,,,,,33,1000.0,,0,deny,manual,7.45,,true,true,"",https://cdn.shopify.com/s/files/1/0605/2898/4321/products/Kardamonai.jpg?v=1634565639,1,,false,,,,,,,,,,,,,,,,,kg,,,active
+kardamonai,,,,,,,,,250g,,,,,33-1,1000.0,,0,deny,manual,18.63,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+kardamonai,,,,,,,,,350g,,,,,33-2,1000.0,,0,deny,manual,26.08,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+kardamonai,,,,,,,,,1kg,,,,,33-3,1000.0,,0,deny,manual,74.50,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+kardamonai-malti,Kardamonai malti,Naudojami pagal skonį.,Paskanink,"Food, Beverages & Tobacco > Food Items > Seasonings & Spices",,"",true,Size,100g,,,,,32,1000.0,,0,deny,manual,3.68,,true,true,"",https://cdn.shopify.com/s/files/1/0605/2898/4321/products/Kardamonaimalti.jpg?v=1634565547,1,,false,,,,,,,,,,,,,,,,,kg,,,active
+kardamonai-malti,,,,,,,,,250g,,,,,32-1,1000.0,,0,deny,manual,9.20,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+kardamonai-malti,,,,,,,,,350g,,,,,32-2,1000.0,,0,deny,manual,12.88,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+kardamonai-malti,,,,,,,,,1kg,,,,,32-3,1000.0,,0,deny,manual,36.80,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+karaliskas-prieskoniu-misinys,Karališkas prieskonių mišinys,"<p>Naudojami pagal skonį, pikantiškas mišinukas.</p>
+<p>Sudėtis: juodi pipirai, raudoni pipirai.</p>",Paskanink,"Food, Beverages & Tobacco > Food Items > Seasonings & Spices",,"",true,Size,100g,,,,,31,1000.0,,0,deny,manual,2.35,,true,true,"",https://cdn.shopify.com/s/files/1/0605/2898/4321/products/Karaliskasprieskoniumisinys.jpg?v=1634565437,1,,false,,,,,,,,,,,,,,,,,kg,,,active
+karaliskas-prieskoniu-misinys,,,,,,,,,250g,,,,,31-1,1000.0,,0,deny,manual,5.88,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+karaliskas-prieskoniu-misinys,,,,,,,,,350g,,,,,31-2,1000.0,,0,deny,manual,8.23,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+karaliskas-prieskoniu-misinys,,,,,,,,,1kg,,,,,31-3,1000.0,,0,deny,manual,23.50,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+kalendru-seklos-maltos,Kalendrų sėklos maltos,Naudojamos pagal skonį.,Paskanink,"Food, Beverages & Tobacco > Food Items > Seasonings & Spices",,"",true,Size,100g,,,,,30,1000.0,,0,deny,manual,0.65,,true,true,"",https://cdn.shopify.com/s/files/1/0605/2898/4321/products/Kalendruseklosmaltos.jpg?v=1634565357,1,,false,,,,,,,,,,,,,,,,,kg,,,active
+kalendru-seklos-maltos,,,,,,,,,250g,,,,,30-1,1000.0,,0,deny,manual,1.63,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+kalendru-seklos-maltos,,,,,,,,,350g,,,,,30-2,1000.0,,0,deny,manual,2.28,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+kalendru-seklos-maltos,,,,,,,,,1kg,,,,,30-3,1000.0,,0,deny,manual,6.50,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+kajeno-pipirai-malti,Kajeno pipirai malti,Labai aštrūs pipirai. Pasižymi savybe deginti  riebalus kraujagyslėse.,Paskanink,"Food, Beverages & Tobacco > Food Items > Seasonings & Spices",,"",true,Size,100g,,,,,29,1000.0,,0,deny,manual,0.95,,true,true,"",https://cdn.shopify.com/s/files/1/0605/2898/4321/products/Kajeno.jpg?v=1634565287,1,,false,,,,,,,,,,,,,,,,,kg,,,active
+kajeno-pipirai-malti,,,,,,,,,250g,,,,,29-1,1000.0,,0,deny,manual,2.38,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+kajeno-pipirai-malti,,,,,,,,,350g,,,,,29-2,1000.0,,0,deny,manual,3.33,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+kajeno-pipirai-malti,,,,,,,,,1kg,,,,,29-3,1000.0,,0,deny,manual,9.50,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+kadugiu-uogos,Kadugių uogos,Naudojami mėsos gaminiams. Ypač tinka žvėrienai.,Paskanink,"Food, Beverages & Tobacco > Food Items > Seasonings & Spices",,"",true,Size,100g,,,,,28,1000.0,,0,deny,manual,1.30,,true,true,"",https://cdn.shopify.com/s/files/1/0605/2898/4321/products/Kadugiuuogos.jpg?v=1634565190,1,,false,,,,,,,,,,,,,,,,,kg,,,active
+kadugiu-uogos,,,,,,,,,250g,,,,,28-1,1000.0,,0,deny,manual,3.25,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+kadugiu-uogos,,,,,,,,,350g,,,,,28-2,1000.0,,0,deny,manual,4.55,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+kadugiu-uogos,,,,,,,,,1kg,,,,,28-3,1000.0,,0,deny,manual,13.00,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+kadugio-uogos-maltos,Kadugio uogos maltos,Naudojamos mėsos gaminiams. Ypač tinka žvėrienai.,Paskanink,"Food, Beverages & Tobacco > Food Items > Seasonings & Spices",,"",true,Size,100g,,,,,27,1000.0,,0,deny,manual,1.60,,true,true,"",https://cdn.shopify.com/s/files/1/0605/2898/4321/products/Kadugiouogosmaltos.jpg?v=1634565106,1,,false,,,,,,,,,,,,,,,,,kg,,,active
+kadugio-uogos-maltos,,,,,,,,,250g,,,,,27-1,1000.0,,0,deny,manual,4.00,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+kadugio-uogos-maltos,,,,,,,,,350g,,,,,27-2,1000.0,,0,deny,manual,5.60,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+kadugio-uogos-maltos,,,,,,,,,1kg,,,,,27-3,1000.0,,0,deny,manual,16.00,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+juoduju-garstyciu-seklos,Juodųjų garstyčių sėklos,"Naudojama į kepinius, į mėsos gaminius, turi mėsą minkštinančią savybę.",Paskanink,"Food, Beverages & Tobacco > Food Items > Seasonings & Spices",,"",true,Size,100g,,,,,26,1000.0,,0,deny,manual,0.90,,true,true,"",https://cdn.shopify.com/s/files/1/0605/2898/4321/products/Juodujugarstyciuseklos.jpg?v=1634565038,1,,false,,,,,,,,,,,,,,,,,kg,,,active
+juoduju-garstyciu-seklos,,,,,,,,,250g,,,,,26-1,1000.0,,0,deny,manual,2.25,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+juoduju-garstyciu-seklos,,,,,,,,,350g,,,,,26-2,1000.0,,0,deny,manual,3.15,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+juoduju-garstyciu-seklos,,,,,,,,,1kg,,,,,26-3,1000.0,,0,deny,manual,9.00,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+juodgrudes-seklos,Juodgrūdės sėklos,"Jomis skaninami produktai, kuriems norima suteikti švelniai aštroką skonį.",Paskanink,"Food, Beverages & Tobacco > Food Items > Seasonings & Spices",,"",true,Size,100g,,,,,25,1000.0,,0,deny,manual,1.28,,true,true,"",https://cdn.shopify.com/s/files/1/0605/2898/4321/products/Juodgrudesseklos.jpg?v=1634564967,1,,false,,,,,,,,,,,,,,,,,kg,,,active
+juodgrudes-seklos,,,,,,,,,250g,,,,,25-1,1000.0,,0,deny,manual,3.20,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+juodgrudes-seklos,,,,,,,,,350g,,,,,25-2,1000.0,,0,deny,manual,4.48,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+juodgrudes-seklos,,,,,,,,,1kg,,,,,25-3,1000.0,,0,deny,manual,12.80,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+indija,Indija,"<p>Naudojami paukštienai, troškiniams gardinti.</p>
+<p>Sudėtis: sezamo sėklos, ciberžolė, saldžios raudonos paprikos, karis,  svogūnai, rozmarinai.</p>",Paskanink,"Food, Beverages & Tobacco > Food Items > Seasonings & Spices",,"",true,Size,100g,,,,,24,1000.0,,0,deny,manual,0.88,,true,true,"",https://cdn.shopify.com/s/files/1/0605/2898/4321/products/Indija.jpg?v=1634564896,1,,false,,,,,,,,,,,,,,,,,kg,,,active
+indija,,,,,,,,,250g,,,,,24-1,1000.0,,0,deny,manual,2.20,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+indija,,,,,,,,,350g,,,,,24-2,1000.0,,0,deny,manual,3.08,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+indija,,,,,,,,,1kg,,,,,24-3,1000.0,,0,deny,manual,8.80,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+imbieras-maltas,Imbieras maltas,"Naudojami mėsos marinavimui, troškiniams, arbatai.",Paskanink,"Food, Beverages & Tobacco > Food Items > Seasonings & Spices",,"",true,Size,100g,,,,,23,1000.0,,0,deny,manual,1.30,,true,true,"",https://cdn.shopify.com/s/files/1/0605/2898/4321/products/Imbierasmaltas.jpg?v=1634564815,1,,false,,,,,,,,,,,,,,,,,kg,,,active
+imbieras-maltas,,,,,,,,,250g,,,,,23-1,1000.0,,0,deny,manual,3.25,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+imbieras-maltas,,,,,,,,,350g,,,,,23-2,1000.0,,0,deny,manual,4.55,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+imbieras-maltas,,,,,,,,,1kg,,,,,23-3,1000.0,,0,deny,manual,13.00,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+gvazdikeliai,Gvazdikėliai,"Naudojami maisto gardinimui, kepiniams.",Paskanink,"Food, Beverages & Tobacco > Food Items > Seasonings & Spices",,"",true,Size,100g,,,,,22,1000.0,,0,deny,manual,3.65,,true,true,"",https://cdn.shopify.com/s/files/1/0605/2898/4321/products/Gvazdikeliai.jpg?v=1634564716,1,,false,,,,,,,,,,,,,,,,,kg,,,active
+gvazdikeliai,,,,,,,,,250g,,,,,22-1,1000.0,,0,deny,manual,9.13,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+gvazdikeliai,,,,,,,,,350g,,,,,22-2,1000.0,,0,deny,manual,12.78,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+gvazdikeliai,,,,,,,,,1kg,,,,,22-3,1000.0,,0,deny,manual,36.50,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+gvazdikeliai-malti,Gvazdikėliai malti,"Naudojami maisto gardinimui, kepiniams.",Paskanink,"Food, Beverages & Tobacco > Food Items > Seasonings & Spices",,"",true,Size,100g,,,,,21,1000.0,,0,deny,manual,4.60,,true,true,"",https://cdn.shopify.com/s/files/1/0605/2898/4321/products/Gvazdikeliaimalti.jpg?v=1634564605,1,,false,,,,,,,,,,,,,,,,,kg,,,active
+gvazdikeliai-malti,,,,,,,,,250g,,,,,21-1,1000.0,,0,deny,manual,11.50,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+gvazdikeliai-malti,,,,,,,,,350g,,,,,21-2,1000.0,,0,deny,manual,16.10,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+gvazdikeliai-malti,,,,,,,,,1kg,,,,,21-3,1000.0,,0,deny,manual,46.00,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+garstyciu-milteliai,Garstyčių milteliai,Naudojami pagal skonį. Taip pat tinka indų valymui ir dėmių išėmimui iš drabužių.,Paskanink,"Food, Beverages & Tobacco > Food Items > Seasonings & Spices",,"",true,Size,100g,,,,,20,1000.0,,0,deny,manual,0.65,,true,true,"",https://cdn.shopify.com/s/files/1/0605/2898/4321/products/Garstyciumilteliai.jpg?v=1634564495,1,,false,,,,,,,,,,,,,,,,,kg,,,active
+garstyciu-milteliai,,,,,,,,,250g,,,,,20-1,1000.0,,0,deny,manual,1.63,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+garstyciu-milteliai,,,,,,,,,350g,,,,,20-2,1000.0,,0,deny,manual,2.28,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+garstyciu-milteliai,,,,,,,,,1kg,,,,,20-3,1000.0,,0,deny,manual,6.50,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+garam-masala,Garam masala,"<p>Mėgstantiems gurmanišką mėsos, troškinių skonį. Suteikia rytų aromatą ir skonį.</p>
+<p>Sudėtis: kalendra, juodieji pipirai, cinamonas, kuminai, muskato riešutai, gvazdikėliai, kardamonai.</p>",Paskanink,"Food, Beverages & Tobacco > Food Items > Seasonings & Spices",,"",true,Size,100g,,,,,19,1000.0,,0,deny,manual,1.50,,true,true,"",https://cdn.shopify.com/s/files/1/0605/2898/4321/products/Garammasala.jpg?v=1634564408,1,,false,,,,,,,,,,,,,,,,,kg,,,active
+garam-masala,,,,,,,,,250g,,,,,19-1,1000.0,,0,deny,manual,3.75,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+garam-masala,,,,,,,,,350g,,,,,19-2,1000.0,,0,deny,manual,5.25,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+garam-masala,,,,,,,,,1kg,,,,,19-3,1000.0,,0,deny,manual,15.00,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+dziovintos-raugeriskio-uogos,Džiovintos raugeriškio uogos,"Naudojamos troškiniams, plovui.",Paskanink,"Food, Beverages & Tobacco > Food Items > Seasonings & Spices",,"",true,Size,100g,,,,,18,1000.0,,0,deny,manual,4.40,,true,true,"",https://cdn.shopify.com/s/files/1/0605/2898/4321/products/Dziovintosraugeriskiouogos.jpg?v=1634564329,1,,false,,,,,,,,,,,,,,,,,kg,,,active
+dziovintos-raugeriskio-uogos,,,,,,,,,250g,,,,,18-1,1000.0,,0,deny,manual,11.00,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+dziovintos-raugeriskio-uogos,,,,,,,,,350g,,,,,18-2,1000.0,,0,deny,manual,15.40,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+dziovintos-raugeriskio-uogos,,,,,,,,,1kg,,,,,18-3,1000.0,,0,deny,manual,44.00,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+didkepsniui-su-juodaja-garstycia,Didkepsniui su juodaja garstyčia,"<p>Tinka kepsniams, mėsos gaminiams. Turi minkštinančią, trapumą mėsai suteikiančią savybę.</p>
+<p>Sudėtis: česnakai, saldžios raudonos paprikos, juodųjų garstyčių sėklos 32%,  cukrus.</p>",Paskanink,"Food, Beverages & Tobacco > Food Items > Seasonings & Spices",,"",true,Size,100g,,,,,17,0.0,,0,deny,manual,1.35,,true,true,"",https://cdn.shopify.com/s/files/1/0605/2898/4321/products/Didkepsniuisujuodajagarstycia.jpg?v=1634564232,1,,false,,,,,,,,,,,,,,,,,kg,,,active
+didkepsniui-su-juodaja-garstycia,,,,,,,,,250g,,,,,17-1,0.0,,0,deny,manual,3.38,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+didkepsniui-su-juodaja-garstycia,,,,,,,,,350g,,,,,17-2,0.0,,0,deny,manual,4.73,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+didkepsniui-su-juodaja-garstycia,,,,,,,,,1kg,,,,,17-3,0.0,,0,deny,manual,13.50,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+dekoras-su-sezamu,Dekoras su sezamu,"<p>Puikiai tinka paukštienai, kepsniams.</p>
+<p>Sudėtis: saldžios raudonos paprikos, česnakai, sezamas 21 %, saldžios žalios paprikos, porai.</p>",Paskanink,"Food, Beverages & Tobacco > Food Items > Seasonings & Spices",,"",true,Size,100g,,,,,16,1000.0,,0,deny,manual,1.05,,true,true,"",https://cdn.shopify.com/s/files/1/0605/2898/4321/products/Dekorassusezamu.jpg?v=1634564128,1,,false,,,,,,,,,,,,,,,,,kg,,,active
+dekoras-su-sezamu,,,,,,,,,250g,,,,,16-1,1000.0,,0,deny,manual,2.63,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+dekoras-su-sezamu,,,,,,,,,350g,,,,,16-2,1000.0,,0,deny,manual,3.68,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+dekoras-su-sezamu,,,,,,,,,1kg,,,,,16-3,1000.0,,0,deny,manual,10.50,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+dasis,Dašis,Naudojamas mėsos patiekalams gardinti.,Paskanink,"Food, Beverages & Tobacco > Food Items > Seasonings & Spices",,"",true,Size,100g,,,,,15,1000.0,,0,deny,manual,1.20,,true,true,"",https://cdn.shopify.com/s/files/1/0605/2898/4321/products/Dasis.jpg?v=1634564033,1,,false,,,,,,,,,,,,,,,,,kg,,,active
+dasis,,,,,,,,,250g,,,,,15-1,1000.0,,0,deny,manual,3.00,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+dasis,,,,,,,,,350g,,,,,15-2,1000.0,,0,deny,manual,4.20,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+dasis,,,,,,,,,1kg,,,,,15-3,1000.0,,0,deny,manual,12.00,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+darzoviu-misinys-stambus,Daržovių mišinys stambus,"<p>Naudojamas sriuboms, troškiniams gardinti.</p>
+<p>Sudėtis: morkos, pastarnokai, salierų šaknys, saldžios raudonos paprikos, česnakai, svogūnai, porai.</p>",Paskanink,"Food, Beverages & Tobacco > Food Items > Seasonings & Spices",,"",true,Size,100g,,,,,14,1000.0,,0,deny,manual,1.35,,true,true,"",https://cdn.shopify.com/s/files/1/0605/2898/4321/products/Darzoviumisinysstambus.jpg?v=1634563952,1,,false,,,,,,,,,,,,,,,,,kg,,,active
+darzoviu-misinys-stambus,,,,,,,,,250g,,,,,14-1,1000.0,,0,deny,manual,3.38,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+darzoviu-misinys-stambus,,,,,,,,,350g,,,,,14-2,1000.0,,0,deny,manual,4.73,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+darzoviu-misinys-stambus,,,,,,,,,1kg,,,,,14-3,1000.0,,0,deny,manual,13.50,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+citrininiai-pipirai,Citrininiai pipirai,"<p>Naudojami žuviai, sumuštiniams su lašiša,  salotoms, puikiai tinka su avokadu.</p>
+<p>Sudėtis: druska, juodieji pipirai, svogūnai, cukrus, maltodekstrinas, česnakai, citrinų rūgštis, citrinų granulės, garstyčių milteliai, maistinės kviečių skaidulos.</p>",Paskanink,"Food, Beverages & Tobacco > Food Items > Seasonings & Spices",,"",true,Size,100g,,,,,13,1000.0,,0,deny,manual,1.35,,true,true,"",https://cdn.shopify.com/s/files/1/0605/2898/4321/products/Citrininiaipipirai.jpg?v=1634563812,1,,false,,,,,,,,,,,,,,,,,kg,,,active
+citrininiai-pipirai,,,,,,,,,250g,,,,,13-1,1000.0,,0,deny,manual,3.38,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+citrininiai-pipirai,,,,,,,,,350g,,,,,13-2,1000.0,,0,deny,manual,4.73,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+citrininiai-pipirai,,,,,,,,,1kg,,,,,13-4,1000.0,,0,deny,manual,13.50,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+ciberzole,Ciberžolė,"Tinka naudoti į sriubas, troškinius, ryžius, makaronus. Naudinga savo priešuždegiminėmis savybėmis.  Galima naudoti su medumi, arba gerti kaip arbatą.",Paskanink,"Food, Beverages & Tobacco > Food Items > Seasonings & Spices",,"",true,Size,100g,,,,,12,1000.0,,0,deny,manual,0.75,,true,true,"",https://cdn.shopify.com/s/files/1/0605/2898/4321/products/Ciberzole.jpg?v=1634563675,1,,false,,,,,,,,,,,,,,,,,kg,,,active
+ciberzole,,,,,,,,,250g,,,,,12-1,1000.0,,0,deny,manual,1.88,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+ciberzole,,,,,,,,,350g,,,,,12-2,1000.0,,0,deny,manual,2.63,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+ciberzole,,,,,,,,,1kg,,,,,12-3,1000.0,,0,deny,manual,7.50,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+chimichuri-be-druskos,Chimichuri be druskos,"<p>Tinka  mėsos  patiekalams, troškiniams, sriuboms, makaronams.</p>
+<p>Sudėtis: svogūnai, česnakai, cukrus, raudonėliai, petražolės, saldžios raudonos paprikos.</p>",Paskanink,"Food, Beverages & Tobacco > Food Items > Seasonings & Spices",,"",true,Size,100g,,,,,11,1000.0,,0,deny,manual,1.60,,true,true,"",https://cdn.shopify.com/s/files/1/0605/2898/4321/products/Chimichuribedruskos.jpg?v=1634562505,1,,false,,,,,,,,,,,,,,,,,kg,,,active
+chimichuri-be-druskos,,,,,,,,,250g,,,,,11-1,1000.0,,0,deny,manual,4.00,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+chimichuri-be-druskos,,,,,,,,,350g,,,,,11-2,1000.0,,0,deny,manual,5.60,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+chimichuri-be-druskos,,,,,,,,,1kg,,,,,11-3,1000.0,,0,deny,manual,16.00,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+chmeli-suneli,Chmeli-suneli,"<p>Tinka troškiniams, sriuboms, mėsos gaminiams, žuviai.</p>
+<p>Sudėtis: ciberžolė, ožragė, kalendra, lauro lapai, krapai, čiobreliai, salierai, bazilikai, pipirmėtės, mairūnai, petražolės, aštrios raudonos paprikos. </p>
+<p>Sudėtyje gali būti garstyčių, sezamo sėklų, riešutų pėdsakų.</p>",Paskanink,"Food, Beverages & Tobacco > Food Items > Seasonings & Spices",,"",true,Size,100g,,,,,10,1000.0,,0,deny,manual,1.60,,true,true,"",https://cdn.shopify.com/s/files/1/0605/2898/4321/products/Chemli-suneli.jpg?v=1634562450,1,,false,,,,,,,,,,,,,,,,,kg,,,active
+chmeli-suneli,,,,,,,,,250g,,,,,10-1,1000.0,,0,deny,manual,4.00,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+chmeli-suneli,,,,,,,,,350g,,,,,10-2,1000.0,,0,deny,manual,5.60,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+chmeli-suneli,,,,,,,,,1kg,,,,,10-3,1000.0,,0,deny,manual,16.00,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+bruscheta,Bruscheta,"<p>Tinka barstyti ant silkės, salotų, makaronų. Rekomenduojama barstyti ant patiekalo viršaus, kad išliktų mišinuko traškumas.</p>
+<p>Sudėtis: pomidorai, svogūnai, česnakai, saldžios raudonos paprikos, raudonėliai, bazilikai, petražolės.</p>",Paskanink,"Food, Beverages & Tobacco > Food Items > Seasonings & Spices",,"",true,Size,100g,,,,,9,1000.0,,0,deny,manual,3.00,,true,true,"",https://cdn.shopify.com/s/files/1/0605/2898/4321/products/Bruscheta.jpg?v=1634562341,1,,false,,,,,,,,,,,,,,,,,kg,,,active
+bruscheta,,,,,,,,,250g,,,,,9-1,1000.0,,0,deny,manual,7.50,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+bruscheta,,,,,,,,,350g,,,,,9-2,1000.0,,0,deny,manual,10.50,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+bruscheta,,,,,,,,,1kg,,,,,9-3,1000.0,,0,deny,manual,30.00,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+bbq-zuviai,BBQ Žuviai,"Sudėtis: svogūnai, petražolės, garstyčios, česnakai, bazilikas, ciberžolės, kvapieji pipirai,, citrinų granulės, pipirmėtės, kviečių skaidulos, laurų lapai.",Paskanink,"Food, Beverages & Tobacco > Food Items > Seasonings & Spices",,"",true,Size,100g,,,,,8,1000.0,,0,deny,manual,1.20,,true,true,"",https://cdn.shopify.com/s/files/1/0605/2898/4321/products/Bbqzuviai.jpg?v=1634562254,1,,false,,,,,,,,,,,,,,,,,kg,,,active
+bbq-zuviai,,,,,,,,,250g,,,,,8-1,1000.0,,0,deny,manual,3.00,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+bbq-zuviai,,,,,,,,,350g,,,,,8-2,1000.0,,0,deny,manual,4.20,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+bbq-zuviai,,,,,,,,,1kg,,,,,8-3,1000.0,,0,deny,manual,12.00,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+bajoriski-kepsniu-prieskoniai-su-apelsinais,Bajoriški kepsnių prieskoniai su apelsinais,"<p>Tinka šašlykams marinuoti, paukštienos ir daržovių patiekalams skaninti, taip pat silkei, sriuboms ir padažams.</p>
+<p>Sudėtis: svogūnai, apelsinai (20%), bazilikai, raudonos saldžios paprikos, aitrioji čili paprikėlė, petražolės.</p>",Paskanink,"Food, Beverages & Tobacco > Food Items > Seasonings & Spices",,"",true,Size,100g,,,,,7,1000.0,,0,deny,manual,1.80,,true,true,"",https://cdn.shopify.com/s/files/1/0605/2898/4321/products/Bajoriskikepsniuprieskoniaisuapelsinais.jpg?v=1634562163,1,,false,,,,,,,,,,,,,,,,,kg,,,active
+bajoriski-kepsniu-prieskoniai-su-apelsinais,,,,,,,,,250g,,,,,7-1,1000.0,,0,deny,manual,4.50,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+bajoriski-kepsniu-prieskoniai-su-apelsinais,,,,,,,,,350g,,,,,7-2,1000.0,,0,deny,manual,6.30,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+bajoriski-kepsniu-prieskoniai-su-apelsinais,,,,,,,,,1kg,,,,,7-3,1000.0,,0,deny,manual,18.00,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+astrumelis,Aštrumėlis,"<p>Puikiai tinka skaninti troškinius, kepsnius, gaminant prieskoninius sūrius.</p>
+<p>Sudėtis: česnakai, jūros druska, aitrios čili paprikėlės, petražolės, bazilikai.</p>",Paskanink,"Food, Beverages & Tobacco > Food Items > Seasonings & Spices",,"",true,Size,100g,,,,,6,1000.0,,0,deny,manual,1.80,,true,true,"",https://cdn.shopify.com/s/files/1/0605/2898/4321/products/Astrumelis.jpg?v=1634562073,1,,false,,,,,,,,,,,,,,,,,kg,,,active
+astrumelis,,,,,,,,,250g,,,,,6-1,1000.0,,0,deny,manual,4.50,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+astrumelis,,,,,,,,,350g,,,,,6-2,1000.0,,0,deny,manual,6.30,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+astrumelis,,,,,,,,,1kg,,,,,6-3,1000.0,,0,deny,manual,18.00,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+armeniskas-prieskoniu-misinys-basturma,Armėniškas prieskonių mišinys Basturma,"<p>Šiuo aštraus skonio mišiniu tinka gardinti vytintą mėsą. </p>
+<p>Sudėtis: ožragės , čili, laurų lapai, raudonos saldžios paprikos, kalendros, raudonieji pipirai, kadagio uogos, juodieji pipirai. </p>
+<p>Sudėtyje gali būti garstyčių, salierų, sezamo sėklų, riešutų, pieno ir jo produktų produktų, glitimo turinčių javų ir jo produktų pėdsakų.</p>",Paskanink,"Food, Beverages & Tobacco > Food Items > Seasonings & Spices",,"",true,Size,100g,,,,,5,1000.0,,0,deny,manual,3.50,,true,true,"",https://cdn.shopify.com/s/files/1/0605/2898/4321/products/ArmeniskasprieskoniumisinysBasturma.jpg?v=1634561884,1,,false,,,,,,,,,,,,,,,,,kg,,,active
+armeniskas-prieskoniu-misinys-basturma,,,,,,,,,250g,,,,,5-1,1000.0,,0,deny,manual,8.75,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+armeniskas-prieskoniu-misinys-basturma,,,,,,,,,350g,,,,,5-2,1000.0,,0,deny,manual,12.25,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+armeniskas-prieskoniu-misinys-basturma,,,,,,,,,1kg,,,,,5-3,1000.0,,0,deny,manual,35.00,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+arabiskas,Arabiškas,"Puikiai tinka mėsos patiekalams. Sudėtis: česnakai, čili, druska, pipirai, rozmarinai, čiobreliai, bazilikai, raudonėliai, petražolės.",Paskanink,,,"",true,Size,100g,,,,,4,1000.0,,0,deny,manual,2.00,,true,true,"",https://cdn.shopify.com/s/files/1/0605/2898/4321/products/Arabiskas.jpg?v=1634552774,1,,false,,,,,,,,,,,,,,,,,kg,,,active
+arabiskas,,,,,,,,,250g,,,,,4-1,1000.0,,0,deny,manual,5.00,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+arabiskas,,,,,,,,,350g,,,,,4-2,1000.0,,0,deny,manual,7.00,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+arabiskas,,,,,,,,,1kg,,,,,4-3,1000.0,,0,deny,manual,20.00,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+anyziu-seklos,Anyžių sėklos,"Anyžių sėklos naudojamos arbatai, marinatams. Šios sėklos yra viena iš sudedamųjų dalių arbatų mišiniuose nuo peršalimo.",Paskanink,"Food, Beverages & Tobacco > Food Items > Seasonings & Spices",,"",true,Size,100g,,,,,3,1000.0,,0,deny,manual,2.00,,true,true,"",https://cdn.shopify.com/s/files/1/0605/2898/4321/products/Anyziuseklos.jpg?v=1634552571,1,,false,,,,,,,,,,,,,,,,,kg,,,active
+anyziu-seklos,,,,,,,,,250g,,,,,3-1,1000.0,,0,deny,manual,5.00,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+anyziu-seklos,,,,,,,,,350g,,,,,3-2,1000.0,,0,deny,manual,7.00,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+anyziu-seklos,,,,,,,,,1kg,,,,,3-3,1000.0,,0,deny,manual,20.00,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+amerikietiskas-java-regiono-misinys,Amerikietiškas Java regiono mišinys,"<p>Rekomenduojama naudoti pagal skonį. Labai tinka bulvėms, makaronams, paukštienai.</p>
+<p>Sudedamosios dalys: saldi raudona paprika, česnakai, juodieji pipirai, kmynai, kalendra, svogūnai, cukranendrių cukrus. Sudėtyje gali būti salierų, garstyčių, sezamo, sojos produktų pėdsakų.</p>",Paskanink,"Food, Beverages & Tobacco > Food Items > Seasonings & Spices",,"",true,Size,100g,,,,,2,1000.0,,0,deny,manual,3.50,,true,false,"",https://cdn.shopify.com/s/files/1/0605/2898/4321/products/AmerikietiskasJavaregionomisinys.jpg?v=1634551100,1,,false,,,,,,,,,,,,,,,,,kg,,,active
+amerikietiskas-java-regiono-misinys,,,,,,,,,250g,,,,,2-1,1000.0,,0,deny,manual,8.75,,true,false,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+amerikietiskas-java-regiono-misinys,,,,,,,,,350g,,,,,2-2,1000.0,,0,deny,manual,12.25,,true,false,"",,,,,,,,,,,,,,,,,,,,,kg,,,
+amerikietiskas-java-regiono-misinys,,,,,,,,,1kg,,,,,2-3,1000.0,,0,deny,manual,22.00,,true,false,"",,,,,,,,,,,,,,,,,,,,,kg,,,
